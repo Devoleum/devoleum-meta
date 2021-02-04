@@ -109,12 +109,12 @@ Lorenzo Zaccagnini MSc in Psicologia, è un Full Stack e Blockchain developer, h
 
 **Devoleum Logo**
 
-![image](https://github.com/Devoleum/devoleum-meta-repo/blob/main/imgs/DevoleumLogo.png)
+![image](https://github.com/Devoleum/devoleum-meta/blob/main/imgs/DevoleumLogo.png)
 
 **Elisa**
 
-![image](https://github.com/Devoleum/devoleum-meta-repo/blob/main/imgs/elisaromondia-default.png)
+![image](https://github.com/Devoleum/devoleum-meta/blob/main/imgs/elisaromondia-default.png)
 
 **Lorenzo**
 
-![image](https://github.com/Devoleum/devoleum-meta-repo/blob/main/imgs/lorenzozaccagnini-default.png)
+![image](https://github.com/Devoleum/devoleum-meta/blob/main/imgs/lorenzozaccagnini-default.png)
