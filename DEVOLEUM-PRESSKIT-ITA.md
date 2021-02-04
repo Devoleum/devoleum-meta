@@ -102,6 +102,17 @@ Lorenzo Zaccagnini MSc in Psicologia, è un Full Stack e Blockchain developer, h
 [**October 2017 - Devoleum presented Station F of Paris, selected for the StartHer Awards 2017**](https://www.facebook.com/MeetStartHer/videos/vb.303376065588/10155599438350589/?type=2&amp;theater)
 
 *Devoleum was in the 10 selected among hundreds of European projects, to be presented at the Station F of Paris for the StartHer Awards 2017*
+* * * * *
+
+### Social
+
+**Instagram**: https://www.instagram.com/devoleum/
+
+**Facebook**: https://www.facebook.com/Devoleum
+
+**LinkedIn**: https://www.linkedin.com/company/18328810
+
+**Twitter**: https://twitter.com/devoleum
 
 * * * * *
 
