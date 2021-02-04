@@ -110,7 +110,7 @@ Lorenzo Zaccagnini MSc in Psicologia, è un Full Stack e Blockchain developer, h
 
 **Facebook**: https://www.facebook.com/Devoleum
 
-**LinkedIn**: https://www.linkedin.com/company/18328810
+**LinkedIn**: https://www.linkedin.com/company/devoleum/
 
 **Twitter**: https://twitter.com/devoleum
 
